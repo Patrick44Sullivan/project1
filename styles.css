@@ -1,0 +1,139 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+background-color: black;
+}
+nav a{
+    display: table;
+    text-align:left;
+    text-transform: uppercase;
+    font-family: Verdana;
+    font-size: 18px;
+    padding: 15px;
+    float: left;
+    color: rgb(238, 227, 233);
+}
+p {
+    color: aliceblue;
+    text-align: center;
+    font-size: large;
+    font-weight: 100;
+}
+li{
+    color:azure
+}
+.nav ul {
+    margin:0;
+    padding:0;
+    list-style: none;
+    }
+    .nav li {
+        display: inline;
+        float:left;
+        }
+
+h1 {
+color:#fff;
+position: relative;
+left: 20px;
+top: 150px;
+}
+h3 {
+    color:whitesmoke
+}
+.main-header{
+    height: 600px;
+    width: 100%;
+    background-image: url("img/HEADER.jpg");
+    background-size:1200px;
+    object-fit:fill;
+}
+.contactus-header img{
+width: 100%;
+height: 600px;
+    
+}
+.contactus-header h1{
+    position: absolute;
+    top: 5%;
+    left: 5%; 
+    color: rgb(255, 255, 255);
+}
+.contactus-header .navtwo {
+    position: absolute;
+    top: 8%;
+    left: 850px; 
+}
+.contactus-header ul {
+    margin:0;
+    padding:0;
+    list-style: none;
+    }
+    .contactus-header li {
+     
+    display: inline;
+        float:left;
+
+        }
+        .contactus-header a {
+        text-align:left;
+    text-transform: uppercase;
+    font-family: Verdana;
+    font-size: 18px;
+    padding: 15px;
+    float: left;
+    color: rgb(238, 227, 227);
+        }
+
+.para{
+    color: blue;
+}
+#parag{
+    color: red;
+}
+.header {background-image: url("img/BIGG.jpg");
+    width: 100%;
+    height: 450px;
+   background-position: center;
+   background-size: cover;
+}
+
+.header h1 {
+    position: absolute;
+    top: 10%;
+    left: 4%;
+
+}
+.nav{
+    position: absolute;
+    top: 8%;
+    left: 850px;
+    
+}
+p{
+    text-align: center;
+}
+
+
+.boxes{
+    text-align: center;
+
+}
+.boxes {
+    display: inline;
+width: 50%;
+}
+footer{
+    padding: 55px;
+}
+footer ul{
+  
+text-align: center;
+}
+footer h3 {
+text-align:center;
+}
+
